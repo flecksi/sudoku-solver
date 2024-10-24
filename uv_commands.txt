@@ -1,0 +1,2 @@
+# create a requirements.txt (required for streamlit community deployment)
+uv pip compile pyproject.toml -o requirements.txt
